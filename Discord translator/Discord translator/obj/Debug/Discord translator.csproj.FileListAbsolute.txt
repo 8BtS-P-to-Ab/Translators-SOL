@@ -9,3 +9,14 @@ C:\Users\shado\Desktop\SOL branches (local)\Discord translator\Discord translato
 C:\Users\shado\Desktop\SOL branches (local)\Discord translator\Discord translator\obj\Debug\Discord translator.csproj.CoreCompileInputs.cache
 C:\Users\shado\Desktop\SOL branches (local)\Discord translator\Discord translator\obj\Debug\Discord translator.exe
 C:\Users\shado\Desktop\SOL branches (local)\Discord translator\Discord translator\obj\Debug\Discord translator.pdb
+C:\Users\shado\source\repos\SOL\Resources\Additions\Translators\Translators\Translators\Resources\Additions\Discord translator\Discord translator\Discord translator\bin\Debug\Discord translator.exe.config
+C:\Users\shado\source\repos\SOL\Resources\Additions\Translators\Translators\Translators\Resources\Additions\Discord translator\Discord translator\Discord translator\bin\Debug\Discord translator.exe
+C:\Users\shado\source\repos\SOL\Resources\Additions\Translators\Translators\Translators\Resources\Additions\Discord translator\Discord translator\Discord translator\bin\Debug\Discord translator.pdb
+C:\Users\shado\source\repos\SOL\Resources\Additions\Translators\Translators\Translators\Resources\Additions\Discord translator\Discord translator\Discord translator\obj\Debug\Discord translator.csprojAssemblyReference.cache
+C:\Users\shado\source\repos\SOL\Resources\Additions\Translators\Translators\Translators\Resources\Additions\Discord translator\Discord translator\Discord translator\obj\Debug\Discord_translator.AboutBox.resources
+C:\Users\shado\source\repos\SOL\Resources\Additions\Translators\Translators\Translators\Resources\Additions\Discord translator\Discord translator\Discord translator\obj\Debug\Discord_translator.DiscordTranslator.resources
+C:\Users\shado\source\repos\SOL\Resources\Additions\Translators\Translators\Translators\Resources\Additions\Discord translator\Discord translator\Discord translator\obj\Debug\Discord_translator.Properties.Resources.resources
+C:\Users\shado\source\repos\SOL\Resources\Additions\Translators\Translators\Translators\Resources\Additions\Discord translator\Discord translator\Discord translator\obj\Debug\Discord translator.csproj.GenerateResource.cache
+C:\Users\shado\source\repos\SOL\Resources\Additions\Translators\Translators\Translators\Resources\Additions\Discord translator\Discord translator\Discord translator\obj\Debug\Discord translator.csproj.CoreCompileInputs.cache
+C:\Users\shado\source\repos\SOL\Resources\Additions\Translators\Translators\Translators\Resources\Additions\Discord translator\Discord translator\Discord translator\obj\Debug\Discord translator.exe
+C:\Users\shado\source\repos\SOL\Resources\Additions\Translators\Translators\Translators\Resources\Additions\Discord translator\Discord translator\Discord translator\obj\Debug\Discord translator.pdb

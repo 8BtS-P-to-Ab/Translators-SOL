@@ -17,6 +17,27 @@ namespace Discord_translator
             InitializeComponent();
         }
 
+        string path;
+
+        private void DiscordTranslator_Load(object sender, EventArgs e)
+        {
+
+            if (Environment.CurrentDirectory.Contains(@"\Debug"))
+            {
+                path = System.IO.Path.GetDirectoryName(System.Reflection.Assembly.GetEntryAssembly().Location).TrimEnd(@"\bin\Debug".ToCharArray()) + @"\Resources\Additions";
+            }
+            else
+            {
+                path = System.IO.Path.GetDirectoryName(System.Reflection.Assembly.GetEntryAssembly().Location) + @"\Resources\Additions";
+            }
+
+            this.Icon = new Icon(path + @"\..\SOLICO.ico");
+            if (int.TryParse((Opacity * 100).ToString(), out int s))
+            {
+                sldBrOpacity.Value = s;     //set upacity on load
+            }
+        }
+
         private void btnTranslate_Click(object sender, EventArgs e)
         {
             txtBxTranslated.Text = "";
@@ -97,16 +118,6 @@ namespace Discord_translator
             double test = (opacity / 100);              //convert to decimal
 
             this.Opacity = test;                        //set the opacity
-        }
-
-        private void DiscordTranslator_Load(object sender, EventArgs e)
-        {
-            int s;
-
-            if (int.TryParse((Opacity * 100).ToString(), out s))
-            {
-                sldBrOpacity.Value = s;     //set upacity on load
-            }
         }
 
         private void aboutBtn_Click(object sender, EventArgs e)
